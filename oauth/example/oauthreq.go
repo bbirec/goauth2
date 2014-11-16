@@ -13,7 +13,7 @@ import (
 	"log"
 	"os"
 
-	"code.google.com/p/goauth2/oauth"
+	"github.com/bbirec/goauth2/oauth"
 )
 
 var (
